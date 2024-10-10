@@ -1,6 +1,6 @@
 # Authors and Affiliations Formatter
 
-This Streamlit app allows you to upload a TSV file containing author details, processes the data, and generates an HTML-formatted list of authors with their corresponding affiliations. The output is displayed directly on the app page with proper superscripted affiliation numbers.
+This Streamlit app (https://aut-formatter.streamlit.app/) allows you to upload a TSV file containing author details, processes the data, and generates an HTML-formatted list of authors with their corresponding affiliations. The output is displayed directly on the app page with proper superscripted affiliation numbers.
 
 ## Features
 - Upload a `.tsv` file containing author information.
