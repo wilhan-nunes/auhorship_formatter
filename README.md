@@ -18,5 +18,5 @@ This Streamlit app (https://aut-formatter.streamlit.app/) allows you to upload a
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/authors-affiliations-formatter.git
+git clone https://github.com/wilhan-nunes/authors-affiliations-formatter.git
 cd authors-affiliations-formatter
